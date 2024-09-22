@@ -1,0 +1,8 @@
+tabulate
+streamlit 
+pdfplumber 
+pytesseract 
+pillow 
+pandas 
+groq 
+python-dotenv
