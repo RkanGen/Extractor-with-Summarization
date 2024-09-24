@@ -12,6 +12,10 @@ This Streamlit application provides a powerful tool for extracting and analyzing
 - Text summarization using Groq API (LLaMA3 model)
 - User-friendly interface built with Streamlit
 
+![extra](https://github.com/user-attachments/assets/9c905e55-1a9e-4c7a-8ccb-db52f4691ea4)
+
+![xtrcax](https://github.com/user-attachments/assets/aca6b281-bcff-410e-a4f9-db16752f902d)
+
 ## Installation
 
 ### Prerequisites
